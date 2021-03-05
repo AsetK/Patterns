@@ -1,4 +1,7 @@
-package com.epam.observer;
+package com.patterns;
+
+import com.patterns.behavioral.observer.ObserverImpl;
+import com.patterns.behavioral.observer.WeatherData;
 
 public class Main {
 

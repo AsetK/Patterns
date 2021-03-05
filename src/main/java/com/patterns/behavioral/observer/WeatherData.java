@@ -1,4 +1,4 @@
-package com.epam.observer;
+package com.patterns.behavioral.observer;
 
 import java.util.LinkedList;
 import java.util.List;

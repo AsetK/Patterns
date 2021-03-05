@@ -1,6 +1,4 @@
-package com.epam.observer;
-
-import java.util.HashMap;
+package com.patterns.behavioral.observer;
 
 public class ObserverImpl implements Observer{
     private WeatherData weatherData;
