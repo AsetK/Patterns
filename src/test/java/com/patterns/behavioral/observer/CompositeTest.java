@@ -35,6 +35,6 @@ public class CompositeTest {
 
 
         System.out.println(topPack.count());
-
+        System.out.println(midPack_2.count());
     }
 }
